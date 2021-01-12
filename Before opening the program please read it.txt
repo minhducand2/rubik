@@ -1,0 +1,15 @@
+~~Group Information creates the program~~
+-Pham Van Minh Duc Study at university of Greenwich Da Nang.
+-Tran Dang Nhat Anh Study at university of Bach Khoa Da Nang
+-Huynh Tri Le university of Bach Khoa Da Nang
+-phone: 0707567021-Duc
+-phone: 0702699921-Anh
+---------------------------------------------------------------------
+~~The program was created within 3 days at home Tran Dang Nhat Anh~~
+-Program start date: 22 August 2019
+-Program completion date: 24 Augaust 2019
+---------------------------------------------------------------------
+~~Instructions for using the Program~~
+-step 1: Open the Decoding program folder
+-step 2: Select GiaiRubik.sln item
+-step 3: start
